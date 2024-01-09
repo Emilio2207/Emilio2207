@@ -64,7 +64,7 @@
     
 <br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="390px" max-width="390px" width="390px" align="right" 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" 
     alt="Computador iuriCode">
 
 <div align="left">
