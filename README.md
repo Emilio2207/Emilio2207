@@ -68,10 +68,11 @@
     alt="Computador iuriCode">
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,java,c,cs,cpp,python,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,firebase,mongodb,mysql,heroku,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=rust,kotlin,unity,unreal,sass,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,astro,azure,django,docker,go,jquery,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,java,c,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,kotlin,unity,unreal,sass,vite,,heroku,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,angular,go,jquery,nestjs,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,astro,azure,django" /><br>
 </div>
     
 <br/>
