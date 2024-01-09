@@ -1,3 +1,5 @@
+![](https://github.com/Emilio2207/Emilio2207/blob/main/header_fullstack.png)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Emilio2207.Emilio2207" />
 
 <h1 align="center">
